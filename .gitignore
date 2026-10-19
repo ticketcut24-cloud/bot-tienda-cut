@@ -1,0 +1,14 @@
+# Sesión privada de WhatsApp
+sesion_clickandcut/
+*sesion*
+*.session
+
+# Base de datos local
+saldos.json
+pedidos.json
+clientes.json
+
+# Archivos de entorno y temporales
+__pycache__/
+*.pyc
+.env
